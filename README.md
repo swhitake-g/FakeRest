@@ -24,7 +24,7 @@ sudo apt-get -y install nlohmann-json3-dev
 
 ## Building 
 
-git clone https://github.com/swhitake-g/Assignment.git
+git clone https://github.com/swhitake-g/FakeRest.git
 
 cd Assignment
 make
